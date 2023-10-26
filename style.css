@@ -1,0 +1,40 @@
+/* Please use a combination of color assignments using: 1. Color by Name,
+2. Color by HexCode, 3. Color by RGB method, 4. Color by RGBA method */
+body {
+    width: 80%;
+    padding: 1% 5% 5% 10%;
+    background-image: url(https://images.pexels.com/photos/259915/pexels-photo-259915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260 );
+    /* use the background image from here: https://images.pexels.com/photos/259915/pexels-photo-259915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260 */
+  }
+  h1 {
+    font-size: 3em;
+    padding: 15px;
+    color: #221299;
+    background-color:#c37b89 ;
+  }
+  h2 {
+    font-size: 1.5em;
+    background-color:#c37b89 ;
+    /* set heading color and background color */
+  }
+  h5 {
+    font-size: 1em;
+    color: #308f2d;
+    background-color:#c4edea;
+    /* set heading color and background color */
+  }
+  .top {
+    font-size: 1.5em;
+    padding: 20px;
+    color: #369D40;
+     background-color:#ccf2f4;
+    /* set paragraph color and background color */
+  }
+  .body {
+    font-size: 1.5em;
+    padding: 20px;
+      color: #369D40;
+    background-color: #ece5de;
+    /* set paragraph color and background color */
+  }
+  
